@@ -1,5 +1,6 @@
 # **SARGAM** 
 This is a music app with a captivating home page.
+
 It has bottom navigation bar for users to navigate to other pages.
 
 

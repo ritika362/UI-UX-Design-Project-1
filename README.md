@@ -1,8 +1,6 @@
-# **SARGAM** 
-This is a music app with a captivating home page.
-
-It has bottom navigation bar for users to navigate to other pages.
+# **EDUTECK** 
+This is a E-learning Company Website Design with an informative home page and intuitive navigation system for easy exploration of the website.
 
 
 Here is the figma link for ui design:
-https://www.figma.com/proto/ib9g9p9c3DaAFzzK35N0qd/Music-App?type=design&node-id=314-8&t=TDaOn6yZektIhGuA-1&scaling=scale-down&page-id=0%3A1&mode=design
+https://www.figma.com/proto/uts8FKsyp6SpVaIEcKlKY2/GUVI---UI%2FUX---MOBILE-UI--NISANTH-ASWIN?type=design&scaling=scale-down&page-id=0%3A1&node-id=9-338&starting-point-node-id=76%3A13&mode=design&t=nkPGXV5OU6IGUewi-1
